@@ -1,0 +1,23 @@
+{
+  "network": {
+    "name": "matic",
+    "chainId": 137
+  },
+  "deployer": "0x61Cc627FaA90ec6f28b956Cd6723BCda667527A9",
+  "timestamp": "2025-01-08T18:34:00.000Z",
+  "contracts": {
+    "SudoToken": {
+      "address": "0x6c0c3BB1339c96d4dbECfc0856075E011a5a3c81",
+      "name": "CyberHack Sudo Token",
+      "symbol": "SUDO",
+      "decimals": 18,
+      "maxSupply": "100000000000000000000000000"
+    },
+    "GameRewards": {
+      "address": "0x805d8dd0ab279bdec0E5701e5bc09B326541c9C2"
+    },
+    "StakingPool": {
+      "address": "0x842789EF8a6cC0e23b5FEd6C8f5e72bC0CD1f942"
+    }
+  }
+}
